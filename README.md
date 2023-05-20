@@ -1,4 +1,5 @@
-# ENSAE: NLP
-NLP project at ENSAE Paris
+# NLP project - Fine-tuning method to classify tweets
 
-You will find the dataset used, a report of our work and a Jupyter notebook.
+This repository is a project done for the NLP course at ENSAE Paris.
+
+
